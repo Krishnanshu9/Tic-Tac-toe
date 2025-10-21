@@ -72,6 +72,7 @@ function checkWinner() {
         if (pos1 != "" && pos2 != "" && pos3 != "") {// if all 3 boxes are empty they are equal and this will return false winner
             if (pos1 === pos2 && pos2 === pos3 && pos1 === pos3) {
                 winner(pos1);
+                return;
             }
         }
     }
