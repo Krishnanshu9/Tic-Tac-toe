@@ -32,7 +32,7 @@ body{
     font-size: 12vmin;
     background-color:#D5BDAF;
 }
-#reset_btn{
+#reset-btn{
     border-radius: 1rem;
     height: 10vmin;
     width: 20vmin;
