@@ -3,6 +3,13 @@
     padding: 0;
 }
 h1{
+    color: #8D5116; 
+    font-size: 8vmin;
+    font-weight: 700;
+    font-family: 'Arial', sans-serif;
+    text-decoration: underline;
+    text-decoration-color: #D5BDAF;
+    text-underline-offset: 10px;
     padding-bottom: 20px;
 }
 body{
